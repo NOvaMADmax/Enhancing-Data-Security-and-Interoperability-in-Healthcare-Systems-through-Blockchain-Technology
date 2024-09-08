@@ -1,0 +1,2 @@
+# Enhancing-Data-Security-and-Interoperability-in-Healthcare-Systems-through-Blockchain-Technology
+The rapid advancements in technology have paved the way for innovative solutions in the healthcare domain, aiming to improve scalability and security while enhancing patient care. This abstract introduces a cutting-edge approach, leveraging blockchain technology and hybrid deep learning techniques to revolutionize healthcare systems
